@@ -1,3 +1,3 @@
 export const environment = {
-    APIURL: 'http://localhost:3000'
+    APIURL: 'https://securitize-assessment-backend.herokuapp.com'
 }
